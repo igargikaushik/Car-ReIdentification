@@ -1,1 +1,17 @@
-#
+siamese_window.py training
+
+test.py 1vs1 test
+
+feature_out.py
+
+test_map.py Calculating 1vsN of map
+
+test_topk.py calculation topk accuracy rate
+
+siamese network different vehicles, through car window
+
+1-1 test accuracy rate98%
+
+Threshold set0.7 accuracy43% accuracy92%
+
+top1 accuracy88% top5 accuracy83.9%
